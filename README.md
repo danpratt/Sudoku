@@ -1,6 +1,6 @@
 # Sudoku
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.md)
 
 ## Description
 
